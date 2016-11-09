@@ -1,0 +1,105 @@
+2016-11-06T11:59:53.447Z - normal: Load ~/.CocosCreator/settings.json
+2016-11-06T11:59:53.453Z - normal: checking language setting...
+2016-11-06T11:59:53.453Z - normal: Language: zh
+2016-11-06T11:59:54.588Z - success: protocol editor-framework registered
+2016-11-06T11:59:54.588Z - success: protocol app registered
+2016-11-06T11:59:54.588Z - success: protocol packages registered
+2016-11-06T11:59:54.588Z - success: protocol theme registered
+2016-11-06T11:59:54.589Z - success: protocol unpack registerred
+2016-11-06T11:59:54.685Z - normal: connected!
+2016-11-06T11:59:54.693Z - normal: Check project D:\cocosProject\firstGame\start_project
+2016-11-06T11:59:54.700Z - normal: Initializing Cocos Creator Editor
+2016-11-06T11:59:55.199Z - normal: Initializing Cocos2d
+2016-11-06T11:59:55.403Z - normal: Initializing Asset Database
+2016-11-06T11:59:55.424Z - success: protocol uuid registerred
+2016-11-06T11:59:55.424Z - success: protocol db registerred
+2016-11-06T11:59:55.424Z - success: protocol thumbnail registerred
+2016-11-06T11:59:55.425Z - normal: Loading editor/builtin packages
+2016-11-06T11:59:55.559Z - success: assets loaded
+2016-11-06T11:59:55.563Z - success: builder loaded
+2016-11-06T11:59:55.567Z - success: hierarchy loaded
+2016-11-06T11:59:55.570Z - success: inspector loaded
+2016-11-06T11:59:55.571Z - success: keystore loaded
+2016-11-06T11:59:55.574Z - success: node-library loaded
+2016-11-06T11:59:55.577Z - success: preferences loaded
+2016-11-06T11:59:55.591Z - success: project-importer loaded
+2016-11-06T11:59:55.594Z - success: project-settings loaded
+2016-11-06T11:59:55.596Z - success: ui-kit loaded
+2016-11-06T11:59:55.598Z - success: ui-grid loaded
+2016-11-06T11:59:55.608Z - success: scene loaded
+2016-11-06T11:59:55.610Z - success: sprite-editor loaded
+2016-11-06T11:59:55.614Z - success: timeline loaded
+2016-11-06T11:59:55.614Z - normal: Loading builtin packages
+2016-11-06T11:59:55.618Z - success: asset-db-debugger loaded
+2016-11-06T11:59:55.619Z - success: code-editor loaded
+2016-11-06T11:59:55.620Z - success: color-picker loaded
+2016-11-06T11:59:55.623Z - success: console loaded
+2016-11-06T11:59:55.625Z - success: package-manager loaded
+2016-11-06T11:59:55.628Z - success: tester loaded
+2016-11-06T11:59:55.630Z - success: ui-kit-preview-extra loaded
+2016-11-06T11:59:55.631Z - success: ui-kit-preview loaded
+2016-11-06T11:59:55.634Z - success: ui-tree loaded
+2016-11-06T11:59:55.676Z - normal: Initializing project D:\cocosProject\firstGame\start_project
+2016-11-06T11:59:55.678Z - normal: Loading packages
+2016-11-06T11:59:55.686Z - normal: Watching packages
+2016-11-06T11:59:55.705Z - normal: Run Application
+2016-11-06T11:59:56.599Z - success: preview server running at http://localhost:7456
+2016-11-06T11:59:56.599Z - normal: Compiling scripts...
+2016-11-06T11:59:58.304Z - normal: Compiled successfully
+2016-11-06T12:00:02.410Z - normal: 1.3.1
+2016-11-06T12:13:52.262Z - normal: Compiled successfully
+2016-11-06T12:14:00.817Z - normal: Compiled successfully
+2016-11-06T12:36:50.568Z - normal: Compiled successfully
+2016-11-06T12:40:14.019Z - normal: Compiled successfully
+2016-11-06T12:41:58.763Z - normal: Compiled successfully
+2016-11-06T12:43:10.090Z - normal: Compiled successfully
+2016-11-06T12:44:14.909Z - normal: Compiled successfully
+2016-11-06T12:47:37.817Z - normal: Compiled successfully
+2016-11-06T12:47:45.785Z - normal: Compiled successfully
+2016-11-06T12:47:51.429Z - normal: Compiled successfully
+2016-11-06T12:49:17.381Z - normal: Compiled successfully
+2016-11-06T12:51:13.243Z - normal: Compiled successfully
+2016-11-06T12:51:19.249Z - normal: Compiled successfully
+2016-11-06T12:52:28.477Z - normal: Compiled successfully
+2016-11-06T12:54:58.403Z - normal: Compiled successfully
+2016-11-06T13:01:58.135Z - normal: Compiled successfully
+2016-11-06T13:03:46.938Z - error: Compile error: Cannot require 'Player' from 'D:\cocosProject\firstGame\start_project\temp\scripts\assets\script'. Module not found.
+    at Readable.<anonymous> (C:\CocosCreator\resources\app.asar\editor\page\compile-worker.js:1:4168)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (C:\CocosCreator\resources\app.asar\node_modules\read-only-stream\index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (C:\CocosCreator\resources\app.asar\node_modules\stream-splicer\index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (C:\CocosCreator\resources\app.asar\node_modules\stream-splicer\index.js:130:18)
+    at Object.callback (C:\CocosCreator\resources\app.asar\editor\core\compiler.js:1:869)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at BrowserWindow.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\compiler.js:1:1262)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
+2016-11-06T13:05:21.287Z - error: Compile error: Cannot require 'scoreFX' from 'D:\cocosProject\firstGame\start_project\temp\scripts\assets\script'. Module not found.
+    at Readable.<anonymous> (C:\CocosCreator\resources\app.asar\editor\page\compile-worker.js:1:4168)
+    at emitOne (events.js:96:13)
+    at Readable.emit (events.js:188:7)
+    at Labeled.<anonymous> (C:\CocosCreator\resources\app.asar\node_modules\read-only-stream\index.js:28:44)
+    at emitOne (events.js:96:13)
+    at Labeled.emit (events.js:188:7)
+    at Labeled.<anonymous> (C:\CocosCreator\resources\app.asar\node_modules\stream-splicer\index.js:130:18)
+    at emitOne (events.js:101:20)
+    at Labeled.emit (events.js:188:7)
+    at Deps.<anonymous> (C:\CocosCreator\resources\app.asar\node_modules\stream-splicer\index.js:130:18)
+    at Object.callback (C:\CocosCreator\resources\app.asar\editor\core\compiler.js:1:869)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at C:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at BrowserWindow.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\compiler.js:1:1262)
+    at BrowserWindow.g (events.js:286:16)
+    at emitOne (events.js:101:20)
+    at BrowserWindow.emit (events.js:188:7)
